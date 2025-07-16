@@ -45,7 +45,7 @@ Uma calculadora de salário completa e interativa, desenvolvida com Python e Tki
 ```
 git clone https://github.com/seu-usuario/calculadora-salario.git
 cd calculadora-salario
-python -m interface
+python -m main
 ```
 
 ### 🪄 Opção 2: Usar o Executável (Windows)
