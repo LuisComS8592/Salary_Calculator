@@ -64,12 +64,14 @@ Baixe o executável diretamente no link abaixo (não precisa instalar Python):
 
 ## 📂 Estrutura do Projeto
 
+```
 Salary_Calculator/
 ├── calculos.py           # Lógica de cálculo (INSS, IRRF, FGTS, salário bruto/liquido)
 ├── interface.py          # Interface gráfica com Tkinter
 ├── main.py               # Ponto de entrada da aplicação (executa a interface)
 ├── README.md             # Este arquivo
 ├── .gitignore
+```
 
 ## 🧾 Licença
 Este projeto está licenciado sob a MIT License – veja o arquivo LICENSE para detalhes.
